@@ -1,0 +1,25 @@
+#video{
+    width: 100%;
+    height: 500px;
+    border: none; 
+}
+.imagediv 
+{
+    border: 1px solid lightslategrey;
+}
+
+.imagediv img
+{
+    width: 100%;
+}
+
+.imagediv h5 , .imagediv p
+{
+    margin: 20px;
+}
+
+.my_nav_bar
+{
+top: 0;
+position: sticky;
+}
